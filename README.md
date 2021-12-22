@@ -1,5 +1,5 @@
 # Q-learning - Reinforcement learning 
-In this project I explore Q-learning for optimizing the business process. We are given a task to find the shortest path from one point to another in a grid given below.
+In this project I explore Q-learning for optimizing warehouse flows. We are given a task to find the shortest path from one point to another in a grid given below.
 
 <img src='images/labyrinth.png' width='500'>
 
